@@ -1,2 +1,2 @@
-# abandonia-prototype
+# Abandonia Prototype
 Restyling of Abandonia website.

@@ -1,0 +1,35 @@
+{
+  "name": "abandonia-prototype",
+  "version": "1.0.0",
+  "description": "Restyling of Abandonia website.",
+  "scripts": {
+    "bundle": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "dependencies": {
+    "vue": "^2.2.2",
+    "vue-router": "^2.3.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.4",
+    "html-webpack-plugin": "^2.28.0",
+    "node-sass": "^4.5.0",
+    "pug": "^2.0.0-beta11",
+    "pug-loader": "^2.3.0",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varbrad/abandonia-prototype.git"
+  },
+  "author": "Brad Davies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varbrad/abandonia-prototype/issues"
+  },
+  "homepage": "https://github.com/varbrad/abandonia-prototype#readme",
+  "private": true
+}
